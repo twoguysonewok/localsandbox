@@ -1,0 +1,1 @@
+This local install of wordpress is to help give us a better understanding of the inner workings of the software.
